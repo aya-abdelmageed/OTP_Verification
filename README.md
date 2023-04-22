@@ -1,2 +1,3 @@
 # OTP_Verification
-#OTP_Verification  ## Using PYTHON
+## Using PYTHON 
+using random, tkinter, and smtplib
